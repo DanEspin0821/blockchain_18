@@ -6,25 +6,11 @@ You’re a fintech engineer who’s working at one of the five largest banks in 
 
 ## Instructions
 
-Open the [`pychain.py` file](Starter_Code/pychain.py) included in the Homework's `Starter_code` folder. 
+Open the [`pychain.py` file](https://github.com/DanEspin0821/blockchain_18/blob/main/pychain.py).
 
-5. Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain. Include the screenshot in the `README.md` file for your homework repository.
-
+5. Test the blockchain validation process by using the web interface.
 
 ![alt=""](Images/bcvalid.JPG)
 ![alt=""](Images/bi1.JPG)
 ![alt=""](Images/bi2.JPG)
 ![alt=""](Images/fullapp.JPG)
-
----
-## Submission
-
-You’ll upload the Python file for this assignment to your GitHub repository.
-
-* Make sure to update the `README.md` file to include an explanation of the Steamlit application, a screenshot or video of your deployed Streamlit application, and any other information that’s needed to interact with your project.
-
-* Submit the link to your GitHub project to Bootcamp Spot.
-
----
-
-© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
