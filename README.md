@@ -16,16 +16,14 @@ Open the [`pychain.py` file](https://github.com/DanEspin0821/blockchain_18/blob/
 ![alt=""](Images/fullapp.JPG)
 
 
-# Test the PyChain Ledger by Storing Records
+Test the PyChain Ledger by Storing Records
 
-# Test `PyChain` ledger and user interface by running your
+Test `PyChain` ledger and user interface by running your
 
-# To do so, complete the following steps:
+To do so, complete the following steps:
 
-# 1. In the terminal, navigate to the project folder where you've coded the
+1. In the terminal, navigate to the project folder where you've coded the
 
-# 2. In the terminal, run the Streamlit application by
-# using `streamlit run pychain.py`.
+2. In the terminal, run the Streamlit application by using `streamlit run pychain.py`.
 
-# 3. Enter values for the sender, receiver, and amount, and then click the "Add
-# Block" button.
+3. Enter values for the sender, receiver, and amount, and then click the "Add Block" button.
